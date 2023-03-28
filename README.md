@@ -1,2 +1,1 @@
-# writer
-My writing portfolio
+# My writing portfolio
